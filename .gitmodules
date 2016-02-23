@@ -1,0 +1,3 @@
+[submodule "libraries/SHT1x"]
+	path = libraries/SHT1x
+	url = https://github.com/carlosgvaso/SHT1x.git
